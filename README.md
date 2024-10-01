@@ -1,2 +1,3 @@
-# CodeLabVR2024
-Repositório de concentração dos outros repositórios do CodeLab
+# AngularJS
+
+- [Frontend](https://github.com/GMalvestiti/CodeLabFrontend)
